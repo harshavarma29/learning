@@ -1,0 +1,19 @@
+
+.width {
+    width: 82%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    overflow: auto;
+  }
+  
+  .opti-image {
+    width: 100%;
+    height: 442px;
+  }
+
+  
+  .points {
+    margin-top: 85px;
+  }

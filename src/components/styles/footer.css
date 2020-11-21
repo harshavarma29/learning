@@ -1,0 +1,51 @@
+
+.foot {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 60px;
+    overflow: auto;
+  }
+  
+  .foot-content {
+    margin-left: 0px;
+    width: 90%;
+    color: rgb(95, 95, 95);
+  }
+  
+  .f-color {
+    color: orange;
+  }
+  
+  .fa-square-o {
+    float: left;
+    margin-top: 20px;
+    background-color: orange;
+  }
+  
+  .fa-facebook-f {
+    background-color: orange;
+    width: 0px;
+  }
+  
+  .media {
+    width: 57px;
+    height: 57px;
+    background-color: orange;
+    border-radius: 50px;
+    color: white;
+    float: left;
+    text-align: center;
+    margin: 13px 14px 7px 0px;
+  }
+  
+  .link {
+    margin-bottom: -20px;
+    color: white;
+    text-decoration-line: none;
+    font-size: 36px;
+    font-weight: bold;
+    position: relative;
+    top: 3px;
+  }
+  

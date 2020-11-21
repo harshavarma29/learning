@@ -1,0 +1,21 @@
+
+.m-content {
+    margin-top: 46px;
+  }
+  
+  .motto-image {
+    width: 100%;
+    margin-top: 28px;
+    margin-left: -15px;  
+  }
+  
+  .m-p {
+    margin: 10px 0px;
+    overflow: auto;
+  }
+  
+  .m-c {
+    float: left;
+    margin-left: 33px;
+    margin-top: -32.5px;
+  }

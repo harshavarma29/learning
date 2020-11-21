@@ -1,0 +1,73 @@
+.map {
+    margin: 0px 15px;
+    margin-top: 11px;
+    margin-right: 33px;
+    width: 91.5%;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .location {
+    text-align: center;
+  }
+  
+  .contact-details {
+    margin: 0px 10px;
+  }
+  
+  .contact-text, .location {
+    font-size: 18px;
+    color: rgb(150, 150, 150);
+    font-weight: 500;
+  }
+  
+  .mobile {
+    text-align: center;
+    margin: 7.5px;
+  }
+  
+  .mobile-info {
+    margin: 10px;
+    color: orange;
+    font-weight: 500;
+  }
+  
+  .contact-icons {
+    color: orange;
+    margin: -4.5px 5px;
+  }
+  
+  .c-center {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .contact-check {
+    margin: 39px;
+    font-size: 13.7px;
+    float: left;
+  }
+  
+  .contact-check, .links {
+    color: rgb(131, 130, 130);
+    font-weight: 500;
+  }
+  
+  .c-button {
+    width: 90%;
+    border-radius: 50px;
+    color: white;
+    background-color: orange;
+    font-size: 13px;
+    font-weight: 700;
+    outline: none;
+  }
+  
+  .c-button:hover {
+    color: orange;
+    background-color: white;
+    border-color: orange;
+    cursor: pointer;
+  }
+  
